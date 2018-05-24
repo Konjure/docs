@@ -1,2 +1,2 @@
 # docs
-Documentation on Konjure's products and services
+Documentation for Konjure's services
